@@ -1,6 +1,6 @@
 # Table of contents
 
-* [IONOS Cloud Support](README.md)
+* [IONOS Cloud FAQ](README.md)
 
 ## Frequently Asked Questions
 
@@ -14,15 +14,6 @@
 
 ## General Information
 
-* [Glossary of Terms](general-information/glossary-of-terms.md)
-* [Service Catalog](general-information/service-catalog/README.md)
-  * [Compute Engine](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#ionos-cloud-compute-engine)
-  * [Managed Services](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#ionos-cloud-managed-services)
-  * [S3 Object Storage](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#ionos-cloud-s3-object-storage)
-  * [Managed Backup](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#ionos-cloud-backup)
-  * [Private Cloud](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#ionos-private-cloud-powered-by-vmware)
-  * [Enterprise Support](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#24-7-enterprise-level-support)
-  * [Data Centers](https://app.gitbook.com/s/-Mj91LQrRzfHvr2Jl2Rv/general-information/service-catalog#data-centers)
 * [Contact Information](general-information/contact-information.md)
 
 ## Legal

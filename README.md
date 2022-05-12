@@ -1,6 +1,6 @@
-# IONOS Cloud Support
+# IONOS Cloud FAQ
 
-![Click here to apply for the IONOS Cloud Startup Initiative!](<.gitbook/assets/Screenshot 2022-05-11 at 16.28.59.png>)
+![Click here to apply for the IONOS Cloud Startup Initiative!](.gitbook/assets/Screenshot%202022-05-11%20at%2016.28.59.png)
 
 ### Frequently Asked Questions
 
@@ -21,17 +21,17 @@
 
 ### Basic Product Information
 
-{% content-ref url="general-information/service-catalog/" %}
-[service-catalog](general-information/service-catalog/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-| [IONOS Cloud Compute Engine](general-information/service-catalog/#ionos-cloud-compute-engine)       | [IONOS Cloud Backup](general-information/service-catalog/#ionos-cloud-backup)                               |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [IONOS Cloud Managed Services](general-information/service-catalog/#ionos-cloud-managed-services)   | [IONOS Private Cloud by VMware](general-information/service-catalog/#ionos-private-cloud-powered-by-vmware) |
-| [IONOS Cloud S3 Object Storage](general-information/service-catalog/#ionos-cloud-s3-object-storage) | [IONOS Cloud Data Centers](general-information/service-catalog/#data-centers)                               |
+| [IONOS Cloud Compute Engine](broken-reference)    | [IONOS Cloud Backup](broken-reference)            |
+| ------------------------------------------------- | ------------------------------------------------- |
+| [IONOS Cloud Managed Services](broken-reference)  | [IONOS Private Cloud by VMware](broken-reference) |
+| [IONOS Cloud S3 Object Storage](broken-reference) | [IONOS Cloud Data Centers](broken-reference)      |
 
-{% content-ref url="general-information/glossary-of-terms.md" %}
-[glossary-of-terms.md](general-information/glossary-of-terms.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ### Contact IONOS Cloud
