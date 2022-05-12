@@ -1,7 +1,5 @@
 # IONOS Cloud FAQ
 
-![Click here to apply for the IONOS Cloud Startup Initiative!](.gitbook/assets/Screenshot%202022-05-11%20at%2016.28.59.png)
-
 ### Frequently Asked Questions
 
 | Account Settings                                                                                                                           | Payment Options                                                                                                                                                                     |
@@ -18,24 +16,3 @@
 | [Can I calculate my costs in advance?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-calculate-my-expenses-in-advance)                                                    | [Can I see my current resource rate during the trial period?](general-information/frequently-asked-questions/trial-conditions.md#q-can-i-see-my-current-resource-rate-during-the-trial-period)                            |
 | [How is traffic measured and billed?](general-information/frequently-asked-questions/costs-and-billing.md#q-how-is-traffic-measured-and-billed)                                                         | [What resources are available for me during the trial period?](general-information/frequently-asked-questions/trial-conditions.md#q-what-resources-are-available-for-me-during-the-trial-period-and-can-i-customize-them) |
 | [Can I get a discount if I sign a contract for a certain period?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-get-a-discount-if-i-sign-a-contract-for-a-certain-period) | [What happens when the trial period ends?](general-information/frequently-asked-questions/trial-conditions.md#q-what-happens-when-the-trial-period-ends)                                                                  |
-
-### Basic Product Information
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-| [IONOS Cloud Compute Engine](broken-reference)    | [IONOS Cloud Backup](broken-reference)            |
-| ------------------------------------------------- | ------------------------------------------------- |
-| [IONOS Cloud Managed Services](broken-reference)  | [IONOS Private Cloud by VMware](broken-reference) |
-| [IONOS Cloud S3 Object Storage](broken-reference) | [IONOS Cloud Data Centers](broken-reference)      |
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-### Contact IONOS Cloud
-
-{% content-ref url="general-information/contact-information.md" %}
-[contact-information.md](general-information/contact-information.md)
-{% endcontent-ref %}
