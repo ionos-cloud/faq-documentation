@@ -12,10 +12,6 @@
 * [Compute Engine](general-information/frequently-asked-questions/compute-engine.md)
 * [General Inquiries](general-information/frequently-asked-questions/general-inquiries.md)
 
-## General Information
-
-* [Contact Information](general-information/contact-information.md)
-
 ## Legal
 
 * [Privacy Policy](https://www.ionos.com/terms-gtc/terms-privacy/)

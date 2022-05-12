@@ -1,6 +1,16 @@
 # IONOS Cloud FAQ
 
+![Click here to sign up for a free IONOS Cloud trial account! ](<.gitbook/assets/Screenshot 2022-05-12 at 12.51.43.png>)
+
 ### Frequently Asked Questions
+
+| General Inquiries                                                             |
+| ----------------------------------------------------------------------------- |
+| How do I make sure my Data Center is properly set up?                         |
+| Do you guarantee that my data will only remain in Germany?                    |
+| I need a specific certification. How can I find out if IONOS Cloud offers it? |
+| Who do I contact if I want to transfer my account to another company?         |
+| Who should I contact if I need an AVV or NDA?                                 |
 
 | Account Settings                                                                                                                           | Payment Options                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,17 +19,19 @@
 | [Do I need a verification code?](general-information/frequently-asked-questions/account-settings.md#q-do-i-need-a-verification-code)       | [How do I update my payment details?](general-information/frequently-asked-questions/payment-options.md#q-how-do-i-update-my-payment-details)                                       |
 | [How do I delete my account?](general-information/frequently-asked-questions/account-settings.md#q-how-do-i-delete-my-account)             | [Is it possible to pay by invoice / in advance?](general-information/frequently-asked-questions/payment-options.md#q-is-it-possible-to-pay-by-invoice-do-you-offer-advance-payment) |
 
-| Costs & Billing                                                                                                                                      | Trial Conditions                                                                                                                                                                                        |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Where can I download my invoices?](general-information/frequently-asked-questions/costs-and-billing.md#q-where-can-i-download-my-invoices)          | [Why should I create a test account?](general-information/frequently-asked-questions/trial-conditions.md#q-why-should-i-create-a-test-account)                                                          |
-| [Can I limit my costs?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-limit-my-costs)                                  | [What happens after I create a test account?](general-information/frequently-asked-questions/trial-conditions.md#q-what-happens-after-i-create-a-test-account)                                          |
-| [Can I calculate my costs in advance?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-calculate-my-expenses-in-advance) | Can I observe my trial resource usage?                                                                                                                                                                  |
-| [How is traffic measured and billed?](general-information/frequently-asked-questions/costs-and-billing.md#q-how-is-traffic-measured-and-billed)      | [What resources are available ](general-information/frequently-asked-questions/trial-conditions.md#q-what-resources-are-available-for-me-during-the-trial-period-and-can-i-customize-them)during trial? |
-| Do you offer discounts on contracts?                                                                                                                 | [What happens when the trial period ends?](general-information/frequently-asked-questions/trial-conditions.md#q-what-happens-when-the-trial-period-ends)                                                |
+![Click here to learn more about the IONOS Cloud Startup Initiative!](<.gitbook/assets/Screenshot 2022-05-11 at 16.28.59.png>)
 
-| Data Center Designer                  | Compute Engine                            |
-| ------------------------------------- | ----------------------------------------- |
-| How do I connect to a server via DCD? | What are Cloud Servers?                   |
-| How do I manage user permissions?     | How do I change the data center location? |
-| How are user roles assigned?          | Where is my data center located?          |
-| How is provisioning conducted?        | I can't access my VM via Remote Console.  |
+| Costs & Billing                                                                                                                                      | Trial Conditions                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Where can I download my invoices?](general-information/frequently-asked-questions/costs-and-billing.md#q-where-can-i-download-my-invoices)          | [Why should I create a test account?](general-information/frequently-asked-questions/trial-conditions.md#q-why-should-i-create-a-test-account)                 |
+| [Can I limit my costs?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-limit-my-costs)                                  | [What happens after I create a test account?](general-information/frequently-asked-questions/trial-conditions.md#q-what-happens-after-i-create-a-test-account) |
+| [Can I calculate my costs in advance?](general-information/frequently-asked-questions/costs-and-billing.md#q-can-i-calculate-my-expenses-in-advance) | [Can I observe my trial resource usage?](general-information/frequently-asked-questions/trial-conditions.md#q-can-i-observe-my-trial-resource-usage)           |
+| [How is traffic measured and billed?](general-information/frequently-asked-questions/costs-and-billing.md#q-how-is-traffic-measured-and-billed)      | [What resources are available during trial?](general-information/frequently-asked-questions/trial-conditions.md#q-what-resources-are-available-during-trial)   |
+| [Do you offer discounts on contracts?](general-information/frequently-asked-questions/costs-and-billing.md#q-do-you-offer-discounts-on-contracts)    | [What happens when the trial period ends?](general-information/frequently-asked-questions/trial-conditions.md#q-what-happens-when-the-trial-period-ends)       |
+
+| Data Center Designer                                                                                                                                         | Compute Engine                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [How do I connect to a server via DCD?](general-information/frequently-asked-questions/data-center-designer.md#q-how-do-i-connect-to-a-server-using-the-dcd) | [What are Cloud Servers?](general-information/frequently-asked-questions/compute-engine.md#q-what-are-cloud-servers)                                     |
+| [How do I manage user permissions?](general-information/frequently-asked-questions/data-center-designer.md#q-how-do-i-manage-user-permissions)               | [How do I change the data center location?](general-information/frequently-asked-questions/compute-engine.md#q-how-do-i-change-the-data-center-location) |
+| [How are user roles assigned?](general-information/frequently-asked-questions/data-center-designer.md#q-how-are-user-roles-assigned)                         | [Where is my data center located?](general-information/frequently-asked-questions/compute-engine.md#q-where-is-my-data-center-located)                   |
+| [How is provisioning conducted?](general-information/frequently-asked-questions/data-center-designer.md#q-how-is-provisioning-conducted)                     | [I can't access my VM via Remote Console.](general-information/frequently-asked-questions/compute-engine.md#q-i-cant-access-my-vm-via-remote-console)    |
