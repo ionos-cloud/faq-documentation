@@ -12,7 +12,7 @@ Should you require direct assistance, please [contact our Cloud Specialists](htt
 
 If you already have an account with us, please get in touch with your Account Manager. If you do not have an account with us, please contact us using our [Contact form](https://cloud.ionos.com/help).
 
-### Q: Who can guarantee that my data will only remain in Germany?
+### Q: Do you guarantee that my data will only remain in Germany?
 
 It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, please contact us: [produkt@cloud.ionos.de](mailto:produkt@cloud.ionos.de)]
 
