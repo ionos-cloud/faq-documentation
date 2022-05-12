@@ -8,15 +8,15 @@ The cloud server is suitable for anyone who wants to have a powerful IT infrastr
 
 Yes. Our cloud plans are ideal for small and medium businesses. Just choose the appropriate tariff for your needs based on the required server resources. They are usually differentiated by CPU, RAM, and memory capacity. Fast SSDs (Solid State Disks) with low access times are available in every plan for data transfer and storage. Whenever you need more resources, you can always adjust them as needed in real-time. For larger companies that need even more performance and server resources, we recommend Compute Engine.
 
-### Q: How do I change the location of a data center?
+### Q: How do I change the data center location?
 
 You can specify the location for a data center only when you provision it for the first time. Once the data center is provisioned, you can no longer change its location.
 
-### Q: Why can't I connect to my server with the Remote Console?
+### Q: I can't access my VM via Remote Console?
 
 DCD Remote Console relies upon VNC (Virtual Network Computing) and requires port 5900. Please always use the latest Java version, and make ports 80 (HTTP), 443 (HTTPS), and 5900 (VNC) available in your firewall for outgoing connection requests. The Remote Console becomes available immediately once the provisioning of your server is complete.
 
-### Q: How can I tell where my VDC is located?
+### Q: Where is my data center located?
 
 *   Go to Dashboard (start page) > My Data Centers.
 

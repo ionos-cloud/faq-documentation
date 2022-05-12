@@ -28,7 +28,7 @@ Firewalls and load balancers are provided free of charge.
 
 Data transfers between data centers in the same geographical region are free. Traffic exchanged between data centers in different geographical regions is charged. This means that transfers between the data center in Karlsruhe and one in Frankfurt are free, while traffic between the same data center in Karlsruhe and one in Las Vegas would be billed.
 
-### Q: Can I get a discount if I sign a contract for a certain period?
+### Q: Do you offer discounts on contracts?
 
 Please get in touch with your Account Manager regarding this topic.
 

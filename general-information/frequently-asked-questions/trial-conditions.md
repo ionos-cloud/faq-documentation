@@ -8,11 +8,11 @@ With IONOS Cloud every customer can test our production environment. Cloud infra
 
 After you enter your company and credit card details, you will have access to a test account within a few minutes. In rare cases, if, for example, a credit card or phone number verification was not completed successfully, another phone call is needed. Our IONOS Cloud sales team will contact you by phone within 24 hours on working days to discuss the next steps.
 
-### Q: What resources are available for me during the trial period and can I customize them?
+### Q: What resources are available during trial?
 
 For the duration of the test period, 8 cores, 20 GB RAM, 600 GB SSD, and HDD, as well as 1 static IP address are available by the standard. Your test is limited to 30 days or maximum resource consumption of 500 euros. If you need more test resources, please talk to your Account Manager.
 
-### Q: Can I see my current resource rate during the trial period?
+### Q: Can I observe my trial resource usage?
 
 You can display the resources you are currently using in the Data Center Designer (DCD). This overview includes CPU, RAM, Storage, and IP addresses. Traffic, Windows licenses, backup, or S3 object storage are not currently displayed but can be viewed in detail using our billing API.
 

@@ -25,7 +25,7 @@ To resolve this error, add an exception for the URL [https://dcd.ionos.com](http
 
 DCD does not use switches for creating network segments, because functions such as switching, routing, and forwarding are deeply integrated into the IONOS Software Defined Network (SDN) stack. The traffic distribution is handled by IONOS.
 
-### Q: How does IONOS Cloud provision resources?
+### Q: How is provisioning conducted?
 
 Provisioning allocates billable resources required to start operating your VDC. "Provisioning" means that the infrastructure of your virtual data center is made available for use. Once all the changes to your VDC have been completed, you can begin the provisioning process. Please note that this process cannot be undone.
 
@@ -35,7 +35,7 @@ Prior to the start of provisioning, you will be alerted about any issues or erro
 
 DCD verifies changes in several ways before provisioning: 1) **Validation** and the 2) **Delta view.**
 
-### Q: How is validation conduction prior to provisioning?
+### Q: Are there provisioning validation safeguards?
 
 DCD ensures a smooth provisioning process by checking the validity of new VDC configurations. This is done prior to provisioning (provisioning dialog box) and while creating VDCs (live validation).
 
@@ -51,7 +51,7 @@ To review all changes prior to starting the provisioning process, select the Del
 
 The authorization philosophy in DCD is based on the creation of roles and groups. Users inherit permissions and access rights granted to the group or groups of which they are members.
 
-### Q: How are roles assigned inside of the DCD?
+### Q: How are user roles assigned?
 
 Permissions are associated with roles and groups. Roles define what users are allowed to do and to which part of the DCD they have access. The following roles can be attributed:
 

@@ -12,6 +12,6 @@ When registering with a credit card, we can verify that you are indeed a real in
 
 You can change your payment details at any time in your DSD account at \[https://dcd.ionos.com]\(https://dcd.ionos.com/latest/). To do this, log in, go to your profile at the top right and select the "Payment Method". Please note that only the owner of the contract can administer payment data, other registered users cannot do this.
 
-### Q: Is it possible to pay by invoice? Do you offer advance payment?
+### Q: Is it possible to pay by invoice or in advance?
 
 Please inquire with your dedicated Account Manager.
