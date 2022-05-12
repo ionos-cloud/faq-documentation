@@ -4,13 +4,13 @@
 
 ### Frequently Asked Questions
 
-| General Inquiries                                                             |
-| ----------------------------------------------------------------------------- |
-| How do I make sure my Data Center is properly set up?                         |
-| Do you guarantee that my data will only remain in Germany?                    |
-| I need a specific certification. How can I find out if IONOS Cloud offers it? |
-| Who do I contact if I want to transfer my account to another company?         |
-| Who should I contact if I need an AVV or NDA?                                 |
+| General Inquiries                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [How do I make sure my Data Center is properly set up?](general-information/frequently-asked-questions/general-inquiries.md#q-how-do-i-ensure-my-data-center-is-properly-set-up)                                                    |
+| [Do you guarantee that my data will only remain in Germany?](general-information/frequently-asked-questions/general-inquiries.md#q-do-you-guarantee-that-my-data-will-only-remain-in-germany)                                       |
+| [I need a specific certification. How can I find out if IONOS Cloud offers it?](general-information/frequently-asked-questions/general-inquiries.md#q-i-need-a-specific-certification.-how-can-i-find-out-if-ionos-cloud-offers-it) |
+| [Who do I contact if I want to transfer my account to another company?](general-information/frequently-asked-questions/general-inquiries.md#q-who-do-i-contact-if-i-want-to-transfer-my-account-to-another-company)                 |
+| [Who should I contact if I need an AVV or NDA?](general-information/frequently-asked-questions/general-inquiries.md#q-who-should-i-contact-if-i-need-an-avv-or-nda)                                                                 |
 
 | Account Settings                                                                                                                           | Payment Options                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
