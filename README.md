@@ -19,7 +19,7 @@
 
 | Data Center Designer                  | Compute Engine                            |
 | ------------------------------------- | ----------------------------------------- |
-| How do I connect to a server via DCD? | Are VM's suitable for enterprise hosting? |
+| How do I connect to a server via DCD? | What are Cloud Servers?                   |
 | How do I manage user permissions?     | How do I change the data center location? |
 | How are user roles assigned?          | Where is my data center located?          |
 | How is provisioning conducted?        | I can't access my VM via Remote Console.  |
