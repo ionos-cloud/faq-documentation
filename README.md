@@ -4,6 +4,14 @@
 
 ### Frequently Asked Questions
 
+| General Inquiries                                                             |
+| ----------------------------------------------------------------------------- |
+| How do I make sure my Data Center is properly set up?                         |
+| Do you guarantee that my data will only remain in Germany?                    |
+| I need a specific certification. How can I find out if IONOS Cloud offers it? |
+| Who do I contact if I want to transfer my account to another company?         |
+| Who should I contact if I need an AVV or NDA?                                 |
+
 | Account Settings                                                                                                                           | Payment Options                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [How do I recover my password?](general-information/frequently-asked-questions/account-settings.md#q-how-do-i-recover-my-password)         | [Which payment methods are available?](general-information/frequently-asked-questions/payment-options.md#q-which-payment-methods-are-available)                                     |
