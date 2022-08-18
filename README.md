@@ -1,6 +1,6 @@
 # IONOS Cloud FAQ
 
-![Click here to sign up for a free IONOS Cloud trial account! ](<.gitbook/assets/Screenshot 2022-05-12 at 12.51.43.png>)
+![Click here to sign up for a free IONOS Cloud trial account! ](/images//uncompromise_cloud.png)
 
 ### Frequently Asked Questions
 
@@ -19,7 +19,7 @@
 | [Do I need a verification code?](general-information/frequently-asked-questions/account-settings.md#q-do-i-need-a-verification-code)       | [How do I update my payment details?](general-information/frequently-asked-questions/payment-options.md#q-how-do-i-update-my-payment-details)                                       |
 | [How do I delete my account?](general-information/frequently-asked-questions/account-settings.md#q-how-do-i-delete-my-account)             | [Is it possible to pay by invoice / in advance?](general-information/frequently-asked-questions/payment-options.md#q-is-it-possible-to-pay-by-invoice-do-you-offer-advance-payment) |
 
-![Click here to learn more about the IONOS Cloud Startup Initiative!](<.gitbook/assets/Screenshot 2022-05-11 at 16.28.59.png>)
+![Click here to learn more about the IONOS Cloud Startup Initiative!](/images/ionos_cloud_startup.png)
 
 | Costs & Billing                                                                                                                                      | Trial Conditions                                                                                                                                               |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
