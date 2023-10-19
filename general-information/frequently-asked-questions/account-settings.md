@@ -16,4 +16,4 @@ No verification code is required to log in to your IONOS Cloud account for the v
 
 ### Q: How do I delete my account?
 
-To delete your account, please get in touch with your Account Manager or call us on +49 30 57700 840 or write to produkt@cloud.ionos.de. For immediate cost stop, simply delete the allocated resources and data, and let us know when you want the contract to end. If your resources have been deleted, please note that this data cannot be recovered.
+To delete your account, please get in touch with your Account Manager or call us on +49 30 57700 840 or write to beratung@cloud.ionos.de. For immediate cost stop, simply delete the allocated resources and data, and let us know when you want the contract to end. If your resources have been deleted, please note that this data cannot be recovered.

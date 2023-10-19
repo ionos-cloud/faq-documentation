@@ -10,7 +10,7 @@ Please get in touch with your Account Manager regarding this topic.
 
 ### Q: Can I calculate my expenses in advance?
 
-Your Account Manager can provide you with specific pricing information, or you can contact us at +49 30 57700 840 or by email at produkt@cloud.ionos.de
+Your Account Manager can provide you with specific pricing information, or you can contact us at +49 30 57700 840 or by email at beratung@cloud.ionos.de
 
 ### Q: How is traffic measured and billed?
 
