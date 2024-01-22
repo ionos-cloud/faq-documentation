@@ -1,8 +1,8 @@
-# IONOS Cloud FAQ
+# IONOS Cloud FAQs
 
 ![Click here to sign up for a free IONOS Cloud trial account! ](/images//uncompromise_cloud.png)
 
-### Frequently Asked Questions
+### General Questions
 
 | General Inquiries                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
