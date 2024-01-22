@@ -18,7 +18,7 @@ DCD Remote Console relies upon Virtual Network Computing (VNC) and requires **po
 
  * **For HTTP:** port 80  
  * **For HTTPS:** port 443  
- * **For VNC:** port 5900 (VNC)  
+ * **For VNC:** port 5900 
  
  The Remote Console becomes available immediately once the provisioning of your server is complete.
 
