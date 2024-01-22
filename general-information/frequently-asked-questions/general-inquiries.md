@@ -6,7 +6,9 @@ Customers should have a basic understanding of cloud hosting platforms before us
 
 If you require direct assistance, contact our [IONOS Cloud help](https://cloud.ionos.com/help). They will check your infrastructure to ensure that everything is correctly set up. This service is completely free of charge. Our support service is available 24/7.
 
-**Note:** Cloud Specialists are not able to perform a full migration for new customers. Please let us know if this is necessary so that we can find the right partner from our IONOS Cloud partner network.
+{% hint style="info" %}
+**Note:** Cloud Specialists are not able to perform a full migration for new customers. Let us know if this is necessary so that we can find the right partner from our IONOS Cloud partner network.
+{% endhint %}
 
 ### I need a certain feature, but I can't find it on the website. How do I know if you offer it?
 
