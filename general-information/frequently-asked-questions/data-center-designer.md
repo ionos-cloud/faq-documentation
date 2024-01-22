@@ -57,18 +57,18 @@ The authorization in DCD is based on the creation of roles and groups. Users inh
 
 Permissions are associated with roles and groups. Roles define what users are allowed to do and to which part of the DCD they have access. The following roles can be attributed:
 
- * All users who register with IONOS Cloud are automatically the contract owners. 
- * Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights. 
- * The contract owner or an administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**. 
- * Administrators have the same permissions as contract owners. However, they cannot change the payment method. 
- * Administrators can assign administrator rights to other users. Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract. 
- * A user is any member who has been added to the contract by the contract owner. After a user has been assigned to a group, they have, at a minimum, read access to the resources assigned to the group. Permissions are required for some activities in the DCD.
+* All users who register with IONOS Cloud are automatically the contract owners. 
+* Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights. 
+* The contract owner or an administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**. 
+* Administrators have the same permissions as contract owners. However, they cannot change the payment method. 
+* Administrators can assign administrator rights to other users. Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract. 
+* A user is any member who has been added to the contract by the contract owner. After a user has been assigned to a group, they have, at a minimum, read access to the resources assigned to the group. Permissions are required for some activities in the DCD.
 
 ### How are user groups divided?
 
-The Groups facility allows a contract owner or an administrator to:
+The groups facility allows a contract owner or an administrator to:
 
 * Define what users are allowed to do in the DCD.
 * Define which resources (VDC, images, snapshots, IP blocks) they have access to.
 
-Administrators do not need to be managed in groups. They automatically have access to all resources associated with the contract. There is no limit to the number of Groups and Users that can be created.
+Administrators do not need to be managed in groups. They automatically have access to all resources associated with the contract. There is no limit to the number of groups and users that can be created.
