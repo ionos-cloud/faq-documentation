@@ -32,7 +32,7 @@ To transfer your account to another company, get in touch with your Account Mana
 
 ### Who should I contact if I need an Auftragsverarbeitungsvertrag (AVV)?
 
-To initiate this operation, reach out to your account manager. For more information on AVV, [<mark style="color:blue">Order processing agreement (AVV)</mark>](https://www.ionos.de/hilfe/datenschutz/allgemeine-informationen-zur-datenschutz-grundverordnung-dsgvo/auftragsverarbeitung/).
+To initiate this operation, reach out to your account manager. For more information on AVV, see [<mark style="color:blue">Order processing agreement (AVV)</mark>](https://www.ionos.de/hilfe/datenschutz/allgemeine-informationen-zur-datenschutz-grundverordnung-dsgvo/auftragsverarbeitung/).
 
 ### Are IONOS Cloud hosting services environmentally sustainable?
 

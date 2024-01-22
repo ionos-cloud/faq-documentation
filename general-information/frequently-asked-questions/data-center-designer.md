@@ -27,7 +27,7 @@ DCD does not use switches for creating network segments because functions such a
 
 ### How is provisioning conducted?
 
-Provisioning allocates billable resources required to start operating your VDC. "Provisioning" means that the infrastructure of your virtual data center is made available for use. Once all the changes to your VDC have been completed, you can begin the provisioning process. Please note that this process cannot be undone.
+Provisioning allocates billable resources required to start operating your VDC. Provisioning means that the infrastructure of your virtual data center is made available for use. Once all the changes to your VDC have been completed, you can begin the provisioning process. Please note that this process cannot be undone.
 
 An existing data center can be modified at any time. Note that the provisioning process cannot be undone. Your password will be requested to edit some of the elements as an additional security measure.
 
