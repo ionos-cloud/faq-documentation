@@ -1,8 +1,8 @@
 # Table of contents
 
-* [IONOS Cloud FAQ](README.md)
+* [IONOS Cloud FAQs](README.md)
 
-## Frequently Asked Questions
+## FAQs
 
 * [Account Settings](general-information/frequently-asked-questions/account-settings.md)
 * [Payment Options](general-information/frequently-asked-questions/payment-options.md)

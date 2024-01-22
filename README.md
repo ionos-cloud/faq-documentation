@@ -2,7 +2,7 @@
 
 ![Click here to sign up for a free IONOS Cloud trial account! ](/images//uncompromise_cloud.png)
 
-### General Questions
+## Questions
 
 | General Inquiries                                                                                                                                                                                                                   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
