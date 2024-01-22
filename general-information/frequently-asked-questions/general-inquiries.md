@@ -16,7 +16,7 @@ If you already have an account with us, get in touch with your account manager. 
 
 ### Do you guarantee that my data will only remain in Germany?
 
-It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, by email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de)
+It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, by email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
 
 ### Can I get help by setting up my virtual data center?
 
@@ -36,5 +36,5 @@ To initiate this operation, reach out to your account manager. For more informat
 
 ### Are IONOS Cloud hosting services environmentally sustainable?
 
-Yes, IONOS Cloud services are environmentally sustainable. For more information, see  [<mark style="color:blue">Sustainability at IONOS</mark>](https://cloud.ionos.de/umwelt). 
+Yes, IONOS Cloud services are environmentally sustainable. For more information, see [<mark style="color:blue">Sustainability at IONOS</mark>](https://cloud.ionos.de/umwelt). 
 

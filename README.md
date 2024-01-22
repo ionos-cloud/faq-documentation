@@ -1,6 +1,6 @@
 # IONOS Cloud FAQs
 
-![Click here to sign up for a free IONOS Cloud trial account! ](/images//uncompromise_cloud.png)
+![Click here to sign up for a free IONOS Cloud trial account!](/images//uncompromise_cloud.png)
 
 ## Questions
 
