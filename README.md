@@ -1,8 +1,8 @@
 # IONOS Cloud FAQs
 
-[<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account
-
 ![Sign up to get started with your IONOS Cloud trial account!](/images//uncompromise_cloud.png)
+
+You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account.
 
 ## Questions                                                               |
 
@@ -35,7 +35,7 @@
 
 | Payment Options                                                                                                                                        | Trial Conditions                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [<mark style="color:blue;">Which payment methods are available?](general-information/frequently-asked-questions/payment-options.md#which-payment-methods-are-available) | [<mark style="color:blue;">Why should I create a test account?</mark>](general-information/frequently-asked-questions/trial-conditions.md#why-should-i-create-a-test-account)                                   |
+| [<mark style="color:blue;">Which payment methods are available in the DCD?](general-information/frequently-asked-questions/payment-options.md#which-payment-methods-are-available-in-the-dcd) | [<mark style="color:blue;">Why should I create a test account?</mark>](general-information/frequently-asked-questions/trial-conditions.md#why-should-i-create-a-test-account)                                   |
 | [<mark style="color:blue;">How can I update my email address?</mark>](general-information/frequently-asked-questions/account-settings.md#how-can-i-update-my-email-address)               | [<mark style="color:blue;">What happens after I create a test account?</mark>](general-information/frequently-asked-questions/trial-conditions.md#what-happens-after-i-create-a-test-account) |
 | [<mark style="color:blue;">Do I need a verification code to log in to IONOS Cloud account?</mark>](general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account)                         | [<mark style="color:blue;">Can I observe my trial resource usage?</mark>](general-information/frequently-asked-questions/trial-conditions.md#can-i-observe-my-trial-resource-usage)                  |
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)                    | [<mark style="color:blue;">Which resources are available during the trial period?</mark>](general-information/frequently-asked-questions/trial-conditions.md#which-resources-are-available-during-the-trial-period)   |

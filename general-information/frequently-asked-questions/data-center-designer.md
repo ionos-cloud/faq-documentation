@@ -7,7 +7,7 @@ Each server has a Remote Console that can be accessed using the DCD. This Remote
 * Java Applet
 * HTML5
 
-We recommend using the HTML5 version.
+We recommend using the **HTML5** version.
 
 ### How do I manage user permissions?
 

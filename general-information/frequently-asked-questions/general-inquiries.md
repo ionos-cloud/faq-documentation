@@ -20,7 +20,7 @@ It depends on you, what data, and where to store it because you choose the locat
 
 ### Can I get help in setting up my Virtual Data Center?
 
-We have extensive [<mark style="color:blue;">IONOS Cloud Documentation</mark>](https://docs.ionos.com/cloud/) and offer many informative webinars. You can also customize your own infrastructure according to your needs. If you need IT service provider support, we would be happy to introduce you to a partner.
+We have extensive [<mark style="color:blue;">IONOS Cloud Documentation</mark>](https://docs.ionos.com/cloud/) and offer many informative [<mark style="color:blue;">webinars</mark>](https://cloud.ionos.com/webinars). You can also customize your own infrastructure according to your needs. If you need IT service provider support, we would be happy to introduce you to a partner.
 
 ### Does IONOS Cloud offer specific certifications?
 
