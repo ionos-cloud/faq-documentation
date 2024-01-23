@@ -2,7 +2,7 @@
 
 ### How do I connect to a server using the DCD?
 
-Each server has a Remote Console that can be accessed using the DCD. This Remote Console is available in two versions, with the one used depending on your browser:
+Each server has a Remote Console that can be accessed using the DCD. This Remote Console is available in two versions, which is used depending on your browser:
 
 * Java Applet
 * HTML5
@@ -15,7 +15,7 @@ In the **DCD**, go to **Menu** > **Management** > **Users & Groups**. The **User
 
 ### What is the difference between a shutdown and a power stop?
 
-When a VM is shut down only at the operating system level, the hardware resources it consumes remain allocated to the VM, and the costs for these resources continue to be charged. To avoid unnecessary costs, use the DCD to stop the VM and deallocate its resources. Costs for CPU cores and RAM will then no longer apply. Associated storage, however, is not deallocated automatically when the VM is stopped and will continue to be charged until deleted manually.
+When a Virtual Machine (VM) is shut down only at the operating system level, the hardware resources it consumes remain allocated to the VM, and the costs for these resources continue to be charged. To avoid unnecessary costs, use the DCD to stop the VM and deallocate its resources. Costs for CPU cores and RAM will then no longer apply. Associated storage, however, is not deallocated automatically when the VM is stopped and will continue to be charged until deleted manually.
 
 ### How can I fix the error message "Missing required Permissions manifest attribute in main jar"?
 

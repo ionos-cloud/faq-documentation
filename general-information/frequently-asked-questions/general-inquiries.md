@@ -16,7 +16,7 @@ If you already have an account with us, get in touch with your account manager. 
 
 ### Do you guarantee that my data will only remain in Germany?
 
-It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, by email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
+It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
 
 ### Can I get help in setting up my Virtual Data Center?
 

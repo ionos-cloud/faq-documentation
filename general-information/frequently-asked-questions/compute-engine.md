@@ -6,13 +6,13 @@ The cloud server is suitable for anyone who wants a robust IT infrastructure at 
 
 ### Are cloud servers suitable for enterprise hosting?
 
-Yes, our cloud plans are ideal for small and medium businesses. Just choose the appropriate tariff for your needs based on the required server resources. They are usually differentiated by Central Processing Unit (CPU), Random Access Memory (RAM), and memory capacity. Fast Solid State Disk (SSD) with low access times is available in every plan for data transfer and storage. Whenever you need more resources, you can adjust them in real-time as needed. For larger companies that need more performance and server resources, we recommend using **Compute Engine**.
+Yes, our cloud plans are ideal for small and medium businesses. Just choose the appropriate tariff for your needs based on the required server resources. They are usually differentiated by Central Processing Unit (CPU), Random Access Memory (RAM), and memory capacity. Fast Solid State Disk (SSD) with low access times is available in every plan for data transfer and storage. Whenever you need more resources, you can adjust them in real time as needed. For larger companies that need more performance and server resources, we recommend using **Compute Engine**.
 
 ### How can I change the data center location?
 
 You can specify the location of a data center only when you provision it for the first time. Once the data center is provisioned, you can no longer change its location.
 
-### Why I cannot access my VM via Remote Console?
+### Why I cannot access my Virtual Machine (VM) via Remote Console?
 
 DCD Remote Console relies upon Virtual Network Computing (VNC) and requires **port 5900**. Always use the latest **Java version**. Make the following ports available in your firewall for outgoing connection requests:
 

@@ -1,6 +1,6 @@
 # Account Settings
 
-### How do I recover my password?
+### How can I recover my password?
 
 To recover your password, use the [<mark style="color:blue;">Password Recovery tool</mark>](https://dcd.ionos.com/password-recovery/). You can use **forgot password?** option on the [<mark style="color:blue;">DCD login</mark>](https://dcd.ionos.com/latest/). 
 
