@@ -1,6 +1,6 @@
 # IONOS Cloud FAQs
 
-You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account.
+Select **Try now** to start using the IONOS Cloud setup. You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account. 
 
 ![](/images//uncompromise_cloud.png)
 
@@ -14,6 +14,7 @@ You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)             | [<mark style="color:blue;">Why I cannot access my VM via Remote Console?</mark>](general-information/frequently-asked-questions/compute-engine.md#why-i-cannot-access-my-vm-via-remote-console)|
 
 Select **Get Started now** to learn more about the IONOS Cloud Startup Initiative.
+
 ![](/images/ionos_cloud_startup.png)
 
 | Costs & Billing                                                                                                                                      | Data Center Designer                                                                                                                                              |
