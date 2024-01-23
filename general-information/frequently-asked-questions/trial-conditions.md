@@ -14,7 +14,7 @@ For the duration of the test period, 8 cores, 20 GB RAM, 600 GB SSD, and HDD, as
 
 ### Can I observe my trial resource usage?
 
-You can display the resources you are currently using in the DCD. This overview includes CPU, RAM, Storage, and IP addresses. Traffic, Windows licenses, backup, or S3 object storage are not currently displayed but can be viewed in detail using our billing API.
+You can display the resources you are currently using in the DCD. This overview includes CPU, RAM, Storage, and IP addresses. Traffic, Windows licenses, backup, or S3 object storage are not currently displayed but can be viewed in detail using our [<mark style="color:blue;">Billing API</mark>](https://api.ionos.com/docs/billing/v3/).
 
 ### What happens if I run out of testing resources?
 
