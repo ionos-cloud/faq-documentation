@@ -1,10 +1,10 @@
 # IONOS Cloud FAQs
 
-![Sign up to get started with your IONOS Cloud trial account!](/images//uncompromise_cloud.png)
-
 You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account.
 
-## Questions                                                               |
+![](/images//uncompromise_cloud.png)
+
+## Questions                                                               
 
 | Account Settings                                                                                                                           | Compute Engine                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,8 @@ You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.
 | [<mark style="color:blue;">Do I need a verification code to log in to IONOS Cloud account?</mark>](general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account)       | [<mark style="color:blue;">How can I find the location of my data center?</mark>](general-information/frequently-asked-questions/compute-engine.md#how-can-i-find-the-location-of-my-data-center)                                      |
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)             | [<mark style="color:blue;">Why I cannot access my VM via Remote Console?</mark>](general-information/frequently-asked-questions/compute-engine.md#why-i-cannot-access-my-vm-via-remote-console)|
 
-![Click here to learn more about the IONOS Cloud Startup Initiative!](/images/ionos_cloud_startup.png)
+Select **Get Started now** to learn more about the IONOS Cloud Startup Initiative.
+![](/images/ionos_cloud_startup.png)
 
 | Costs & Billing                                                                                                                                      | Data Center Designer                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -39,4 +40,4 @@ You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.
 | [<mark style="color:blue;">How can I update my email address?</mark>](general-information/frequently-asked-questions/account-settings.md#how-can-i-update-my-email-address)               | [<mark style="color:blue;">What happens after I create a test account?</mark>](general-information/frequently-asked-questions/trial-conditions.md#what-happens-after-i-create-a-test-account) |
 | [<mark style="color:blue;">Do I need a verification code to log in to IONOS Cloud account?</mark>](general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account)                         | [<mark style="color:blue;">Can I observe my trial resource usage?</mark>](general-information/frequently-asked-questions/trial-conditions.md#can-i-observe-my-trial-resource-usage)                  |
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)                    | [<mark style="color:blue;">Which resources are available during the trial period?</mark>](general-information/frequently-asked-questions/trial-conditions.md#which-resources-are-available-during-the-trial-period)   |
-|                  | [<mark style="color:blue;">What happens when the trial period ends?</mark>](general-information/frequently-asked-questions/trial-conditions.md#what-happens-when-the-trial-period-ends)   |
+
