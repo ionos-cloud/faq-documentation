@@ -1,6 +1,8 @@
 # IONOS Cloud FAQs
 
-![[Sign up to get started](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account!](/images//uncompromise_cloud.png)
+[Sign up to get started](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account
+
+![Sign up to get started with your IONOS Cloud trial account!](/images//uncompromise_cloud.png)
 
 ## Questions
 
