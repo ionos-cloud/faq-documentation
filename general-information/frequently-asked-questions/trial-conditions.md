@@ -8,9 +8,9 @@ With IONOS Cloud, every customer can test our production environment. Cloud infr
 
 After you enter your company and credit card details, you will have access to a test account within a few minutes. In rare cases, if, for example, a credit card or phone number verification was not completed successfully, another phone call is needed. Our IONOS Cloud sales team will contact you by phone within 24 hours on working days to discuss the next steps.
 
-### What resources are available during the trial?
+### Which resources are available during the trial period?
 
-For the duration of the test period, 8 cores, 20 GB RAM, 600 GB SSD, and HDD, as well as 1 static IP address, are available by the standard. Your test is limited to 30 days or a maximum resource consumption of 500 euros. If you need more test resources, contact your account manager.
+For the duration of the trial period, 8 cores, 20 GB RAM, 600 GB SSD, and HDD, as well as 1 static IP address, are available by the standard. Your trial period is limited to 30 days or a maximum resource consumption of 500 euros. If you need more test resources, contact your account manager.
 
 ### Can I observe my trial resource usage?
 
@@ -28,7 +28,7 @@ After the test phase expires or resources end, your test account will be convert
 
 If you decide to continue using our services after the end of the test, the infrastructure you set up will remain in place; only the status of the account will change. User data saved during registration will be used for billing purposes. Henceforward, you will receive a detailed invoice for resources used and costs incurred. If you choose not to continue using it, delete your allocated resources before the end of the test and notify your account manager. If the manager should arrange the deletion of your resources, then the deleted data cannot be recovered.
 
-### I did not have time to test, can I renew my test account again?
+### If I did not have the time to test, can I renew my test account again?
 
 You have a test period of 30 days, and if you need to extend your test period, get in touch with your IONOS Cloud account manager to find a solution.
 
@@ -36,7 +36,7 @@ You have a test period of 30 days, and if you need to extend your test period, g
 
 Yes, contact our sales department directly. This VMware-based solution on dedicated hardware will be built and delivered to you personally. Your account manager will first discuss your requirements and specifications, and then your infrastructure will be available for you in a few days.
 
-### What happens to my data if I don't choose IONOS Cloud?
+### What happens to my data if I do not choose IONOS Cloud?
 
 If you choose not to continue using IONOS Cloud, delete your allocated resources before the end of the test and notify your account manager. If the manager needs to arrange the removal of your resources, we provide a multi-step removal process. The deleted data cannot be recovered.
 

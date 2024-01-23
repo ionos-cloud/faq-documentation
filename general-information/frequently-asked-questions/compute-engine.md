@@ -8,7 +8,7 @@ The cloud server is suitable for anyone who wants a robust IT infrastructure at 
 
 Yes, our cloud plans are ideal for small and medium businesses. Just choose the appropriate tariff for your needs based on the required server resources. They are usually differentiated by Central Processing Unit (CPU), Random Access Memory (RAM), and memory capacity. Fast Solid State Disk (SSD) with low access times is available in every plan for data transfer and storage. Whenever you need more resources, you can adjust them in real-time as needed. For larger companies that need more performance and server resources, we recommend using **Compute Engine**.
 
-### How do I change the data center location?
+### How can I change the data center location?
 
 You can specify the location of a data center only when you provision it for the first time. Once the data center is provisioned, you can no longer change its location.
 
@@ -22,7 +22,7 @@ DCD Remote Console relies upon Virtual Network Computing (VNC) and requires **po
  
  The Remote Console becomes available immediately once the provisioning of your server is complete.
 
-### Where is my data center located?
+### How can I find the location of my data center?
 
 In the **DCD**, go to the **Dashboard** > **My Data Centers**. The **Region** column has the list of the location of your data center.
 
