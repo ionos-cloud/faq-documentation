@@ -1,6 +1,6 @@
 # IONOS Cloud FAQs
 
-Select **Try now** to start using the IONOS Cloud setup. You can [<mark style="color:blue;">Sign up to get started</mark>](https://cloud.ionos.com/compute/signup) with your IONOS Cloud trial account. 
+Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. You can sign up to get started with your trial account. 
 
 ![](/images//uncompromise_cloud.png)
 
@@ -13,7 +13,7 @@ Select **Try now** to start using the IONOS Cloud setup. You can [<mark style="c
 | [<mark style="color:blue;">Do I need a verification code to log in to IONOS Cloud account?</mark>](general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account)       | [<mark style="color:blue;">How can I find the location of my data center?</mark>](general-information/frequently-asked-questions/compute-engine.md#how-can-i-find-the-location-of-my-data-center)                                      |
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)             | [<mark style="color:blue;">Why I cannot access my VM via Remote Console?</mark>](general-information/frequently-asked-questions/compute-engine.md#why-i-cannot-access-my-vm-via-remote-console)|
 
-Select **Get Started now** to learn more about the IONOS Cloud Startup Initiative.
+Select [<mark style="color:blue;">**Get Started now**</mark>](https://cloud.ionos.de/startup-programm#contact ) to learn more about the IONOS Cloud Startup Initiative.
 
 ![](/images/ionos_cloud_startup.png)
 
