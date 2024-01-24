@@ -31,7 +31,7 @@ Provisioning allocates billable resources required to start operating your VDC. 
 
 An existing data center can be modified at any time. Note that the provisioning process cannot be undone. Your password will be requested to edit some of the elements as an additional security measure.
 
-Before starting provisioning, you will be alerted about any issues or errors and can review a h2 of all changes. As an additional security measure for critical changes, you may have to enter your password before provisioning can begin.
+Before starting provisioning, you will be alerted about any issues or errors and can review all changes. As an additional security measure for critical changes, you may have to enter your password before provisioning can begin.
 
 DCD verifies changes in the following ways before provisioning: 
 * Validation
@@ -57,12 +57,12 @@ The authorization in DCD is based on the creation of roles and groups. Users inh
 
 Permissions are associated with roles and groups. Roles define what users are allowed to do and to which part of the DCD they have access. The following roles can be attributed:
 
-* All users who register with IONOS Cloud are automatically the contract owners. 
-* Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights. 
-* The contract owner or an administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**. 
-* Administrators have the same permissions as contract owners. However, they cannot change the payment method. 
-* Administrators can assign administrator rights to other users. Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract. 
-* A user is any member who has been added to the contract by the contract owner. After a user has been assigned to a group, they have, at a minimum, read access to the resources assigned to the group. Permissions are required for some activities in the DCD.
+| Contract Owners                                                                                                                          | Administrators                                                                                                                                                   | Users |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------ |
+| All users who register with IONOS Cloud are automatically the contract owners.          | Administrators have the same permissions as contract owners. However, they cannot change the payment method.                       | A user is any member who has been added to the contract by the contract owner.  |
+| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators can assign administrator rights to other users.                  |  After a user has been assigned to a group, they have, at a minimum, read access to the resources assigned to the group. Permissions are required for some activities in the DCD. |
+| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract.     | 
+| The contract can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.        | The administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.                                      |
 
 ### How are user groups divided?
 

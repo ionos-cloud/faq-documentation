@@ -12,7 +12,7 @@ Yes, our cloud plans are ideal for small and medium businesses. Just choose the 
 
 You can specify the location of a data center only when you provision it for the first time. Once the data center is provisioned, you can no longer change its location.
 
-### Why I cannot access my Virtual Machine (VM) via Remote Console?
+### Why can I not access my Virtual Machine (VM) via the Remote Console?
 
 DCD Remote Console relies upon Virtual Network Computing (VNC) and requires **port 5900**. Always use the latest **Java version**. Make the following ports available in your firewall for outgoing connection requests:
 
