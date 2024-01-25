@@ -2,21 +2,21 @@
 
 ### How can I ensure my data center is properly set up?
 
-Customers should have a basic understanding of cloud hosting platforms before using IONOS's Cloud Products and services. The best way to get started is by using our graphic user interface tutorials. These instruction sets will teach you how to launch a basic data center and set up initial user access and permissions.
+Customers should have a basic understanding of cloud hosting platforms before using IONOS's Cloud Products and services. The best way to get started is by using IONOS graphic user interface tutorials. These instruction sets will teach you how to launch a basic data center and set up initial user access and permissions.
 
-If you require direct assistance, contact our [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help). They will check your infrastructure to ensure that everything is correctly set up. This service is completely free of charge. Our support service is available 24/7.
+If you require direct assistance, contact [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help). They will check your infrastructure to ensure that everything is correctly set up. This service is completely free of charge. IONOS support service is available 24/7.
 
 {% hint style="info" %}
-**Note:** Cloud Specialists are not able to perform a full migration for new customers. Let us know if this is necessary so that we can find the right partner from our IONOS Cloud partner network.
+**Note:** Cloud Specialists are not able to perform a full migration for new customers. Let us know if this is necessary so that we can find the right partner from IONOS Cloud partner network.
 {% endhint %}
 
 ### If I need a certain feature but cannot find it on the website, how do I know if IONOS Cloud offers it?
 
-If you already have an account with us, get in touch with your account manager. If you do not have an account with us, contact us using our [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help).
+If you already have an account with us, get in touch with your account manager. If you do not have an account with us, contact us using [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help).
 
 ### Do you guarantee that my data will only remain in Germany?
 
-It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in our data protection package. If you have further questions, email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
+It depends on you, what data, and where to store it because you choose the location of the data center. All information about data protection can be found in IONOS data protection package. If you have further questions, email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
 
 ### Can I get help in setting up my Virtual Data Center?
 
@@ -24,7 +24,7 @@ We have extensive [<mark style="color:blue;">IONOS Cloud Documentation</mark>](h
 
 ### Does IONOS Cloud offer specific certifications?
 
-You can find our [<mark style="color:blue;">Certificates and attestations</mark>](https://cloud.ionos.de/zertifikate). If you need additional certificates, reach out to us using [<mark style="color:blue">IONOS customer service</mark>](https://contact.ionos.de/) or get in touch with your account manager.
+You can find IONOS [<mark style="color:blue;">Certificates and attestations</mark>](https://cloud.ionos.de/zertifikate). If you need additional certificates, reach out to us using [<mark style="color:blue">IONOS customer service</mark>](https://contact.ionos.de/) or get in touch with your account manager.
 
 ### Who should I contact if I want to transfer my account to another company?
 
