@@ -11,7 +11,7 @@ We recommend using the **HTML5** version.
 
 ### How do I manage user permissions?
 
-In the **DCD**, go to **Menu** > **Management** > **Users & Groups**. The **User Manager** will open up. It allows contract owners and administrators to organize users. From the User Manager, the administrator can provide users with permissions and access to the resources of an IONOS account.
+In the **DCD**, go to **Menu** > **Management** > **Users & Groups**. The **User Manager** will open up. It allows contract owners and administrators to organize users. From the **User Manager**, the administrator can provide users with permissions and access to the resources of an IONOS account.
 
 ### What is the difference between a shutdown and a power stop?
 
