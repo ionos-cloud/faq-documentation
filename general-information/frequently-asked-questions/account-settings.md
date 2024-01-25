@@ -10,7 +10,7 @@ Contract owners can contact their account manager or the support team to update 
 
 ### Do I need a verification code to log in to IONOS Cloud account?
 
-No verification code is required to log in to your IONOS Cloud account for the first time. Once the **2-Step Verification** is **activated**, you cannot log in again without the code. If the **Authenticator** app is deleted or the device it's on is not available, you will need to contact the support team and request to turn off the **2-Step Verification**. You can then log in again and reactivate the 2-Step Verification yourself.
+No verification code is required to log in to your IONOS Cloud account for the first time. Once the **2-Step Verification** is **activated**, you cannot log in again without the code. If the **Authenticator** app is deleted or the device it's on is not available you will need to contact the support team and request to turn off the **2-Step Verification**. You can then log in again and reactivate the **2-Step Verification** yourself.
 
 ### How do I delete my account?
 
