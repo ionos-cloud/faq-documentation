@@ -27,7 +27,7 @@ DCD does not use switches for creating network segments because functions such a
 
 ### How is provisioning conducted?
 
-Provisioning allocates billable resources required to start operating your VDC. Provisioning means that the infrastructure of your virtual data center is made available for use. Once all the changes to your VDC have been completed, you can begin the provisioning process. Please note that this process cannot be undone.
+Provisioning allocates billable resources required to start operating your VDC. Provisioning means that the infrastructure of your virtual data center is made available for use. Once all the changes to your Virtual Data Center (VDC) have been completed, you can begin the provisioning process. Please note that this process cannot be undone.
 
 An existing data center can be modified at any time. Note that the provisioning process cannot be undone. Your password will be requested to edit some of the elements as an additional security measure.
 
@@ -41,7 +41,7 @@ DCD verifies changes in the following ways before provisioning:
 
 DCD ensures a smooth provisioning process by checking the validity of new VDC configurations. This is done before provisioning and while creating VDCs.
 
-* **Live validation:** Live validation identifies errors that would block the provisioning process and provides assistance with their immediate resolution. Errors and warnings that do not stop the provisioning process or messages requesting a password confirmation are not displayed.
+* **Live validation:** Identifies errors that would block the provisioning process and provides assistance with their immediate resolution. Errors and warnings that do not stop the provisioning process or messages requesting a password confirmation are not displayed.
 
 * **Dialog box:** The new configuration is checked for errors before starting the provisioning process. For example, you receive notifications if default element names are unchanged. The built-in help function will assist you in resolving such errors.
 
@@ -60,7 +60,7 @@ Permissions are associated with roles and groups. Roles define what users are al
 | Contract Owners                                                                                                                          | Administrators                                                                                                                                                   | Users |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------ |
 | All users who register with IONOS Cloud are automatically the contract owners.          | Administrators have the same permissions as contract owners. However, they cannot change the payment method.                       | A user is any member who has been added to the contract by the contract owner.  |
-| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators can assign administrator rights to other users.                  |  After a user has been assigned to a group, they have, at a minimum, read access to the resources assigned to the group. Permissions are required for some activities in the DCD. |
+| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators can assign administrator roles to other users.                  |  A user assigned to a group, at a minimum, has read access to the resources allocated to the group. Permissions are required for some activities in the DCD.  |
 | Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract.     | 
 | The contract can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.        | The administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.                                      |
 

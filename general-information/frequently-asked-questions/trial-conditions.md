@@ -30,14 +30,14 @@ If you decide to continue using our services after the end of the test, the infr
 
 ### If I did not have the time to test, can I renew my test account again?
 
-You have a test period of 30 days, and if you need to extend your test period, get in touch with your IONOS Cloud account manager to find a solution.
+You have a test period of 30 days, and if you need to extend your test period, contact your IONOS Cloud account manager to find a solution.
 
 ### Can I also test a private cloud for free for 30 days?
 
 Yes, contact IONOS sales department directly. This VMware-based solution on dedicated hardware will be built and delivered to you personally. Your account manager will first discuss your requirements and specifications, and then your infrastructure will be available for you in a few days.
 
-### What happens to my data if I do not choose IONOS Cloud?
+### What happens to my data if I do not choose to continue using IONOS Cloud?
 
 If you choose not to continue using IONOS Cloud, delete your allocated resources before the end of the test and notify your account manager. If the manager needs to arrange the removal of your resources, we provide a multi-step removal process. The deleted data cannot be recovered.
 
-Personal data that is collected when creating an account will be deleted by IONOS after the legal and operational retention periods have expired.
+After legal and operational retention periods expire, IONOS will delete personal data collected when creating an account.

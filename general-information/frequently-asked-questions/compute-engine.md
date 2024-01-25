@@ -2,11 +2,11 @@
 
 ### What are cloud servers?
 
-The cloud server is suitable for anyone who wants a robust IT infrastructure at a reasonable price. It's the perfect foundation for various web projects, whether it's a private homepage or company website, a robust framework for web developers, or a high-performance gaming server. With the cloud servers, you can flexibly balance the necessary resources and pay only for what is actually used. If you are working on larger projects in which you use servers for different purposes, such as a front-end server with a load balancer in conjunction with database servers that you manage from third-party software via an API, then you can easily match such scenarios with the cloud server solutions. You also get unlimited traffic and high availability.
+The cloud server is suitable for anyone who wants a robust IT infrastructure at a reasonable price. It is the perfect foundation for various web projects, whether it is a private homepage or company website, a robust framework for web developers, or a high-performance gaming server. With the cloud servers, you can flexibly balance the necessary resources and pay only for what is actually used. If you are working on larger projects in which you use servers for different purposes, such as a front-end server with a load balancer in conjunction with database servers that you manage from third-party software via an API, then you can easily match such scenarios with the cloud server solutions. You also get unlimited traffic and high availability.
 
 ### Are cloud servers suitable for enterprise hosting?
 
-Yes, the cloud plans provided by IONOS are ideal for small and medium businesses. Just choose the appropriate tariff for your needs based on the required server resources. They are usually differentiated by Central Processing Unit (CPU), Random Access Memory (RAM), and memory capacity. Fast Solid State Disk (SSD) with low access times is available in every plan for data transfer and storage. Whenever you need more resources, you can adjust them in real time as needed. For larger companies that need more performance and server resources, we recommend using **Compute Engine**.
+Yes, the cloud plans provided by IONOS are ideal for small and medium businesses. Choose the appropriate tariff for your business needs based on the required server resources. They are usually differentiated by Central Processing Unit (CPU), Random Access Memory (RAM), and memory capacity. Fast Solid State Disk (SSD) with low access times is available in every data transfer and storage plan. Whenever you need more resources, you can adjust them in real time as needed. For larger companies that need more performance and server resources, we recommend using **Compute Engine**.
 
 ### How can I change the data center location?
 
@@ -26,4 +26,4 @@ DCD Remote Console relies upon Virtual Network Computing (VNC) and requires **po
 
 In the **DCD**, go to the **Dashboard** > **My Data Centers**. The **Region** column has the list of the location of your data center.
 
-Alternatively, you can use the **Start Center** option to view the location of your VDCs. 
+Alternatively, you can use the **Start Center** option to view the location of your Virtual Data Center. 
