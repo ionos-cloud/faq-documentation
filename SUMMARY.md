@@ -1,16 +1,16 @@
 # Table of contents
 
-* [IONOS Cloud FAQ](README.md)
+* [IONOS Cloud FAQs](README.md)
 
-## Frequently Asked Questions
+## Categories
 
 * [Account Settings](general-information/frequently-asked-questions/account-settings.md)
-* [Payment Options](general-information/frequently-asked-questions/payment-options.md)
-* [Costs & Billing](general-information/frequently-asked-questions/costs-and-billing.md)
-* [Trial Conditions](general-information/frequently-asked-questions/trial-conditions.md)
-* [Data Center Designer](general-information/frequently-asked-questions/data-center-designer.md)
 * [Compute Engine](general-information/frequently-asked-questions/compute-engine.md)
+* [Costs & Billing](general-information/frequently-asked-questions/costs-and-billing.md)
+* [Data Center Designer](general-information/frequently-asked-questions/data-center-designer.md)
 * [General Inquiries](general-information/frequently-asked-questions/general-inquiries.md)
+* [Payment Options](general-information/frequently-asked-questions/payment-options.md)
+* [Trial Conditions](general-information/frequently-asked-questions/trial-conditions.md)
 
 ## Legal
 
