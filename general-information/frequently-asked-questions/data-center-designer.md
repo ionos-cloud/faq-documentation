@@ -51,18 +51,18 @@ Select the **Delta** tab in the **Provision Data Center** to review all changes 
 * Deleted
 * Updated
 
-The authorization in DCD is based on the creation of roles and groups. Users inherit permissions and access rights granted to the group or groups of which they are members.
+The authorization in DCD is based on the user privileges. Users inherit permissions and access privileges granted to the group or groups of which they are members.
 
-### How are user roles assigned?
+### How are user privileges assigned?
 
-Permissions are associated with roles and groups. Roles define what users are allowed to do and to which part of the DCD they have access. The following roles can be attributed:
+Permissions are associated with privileges and groups. Privileges define what users are allowed to do and to which part of the DCD they have access. The following privileges can be attributed:
 
 | Contract Owners                                                                                                                          | Administrators                                                                                                                                                   | Users |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------ |
 | All users who register with IONOS Cloud are automatically the contract owners.          | Administrators have the same permissions as contract owners. However, they cannot change the payment method.                       | A user is any member who has been added to the contract by the contract owner.  |
-| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators can assign administrator roles to other users.                  |  A user assigned to a group, at a minimum, has read access to the resources allocated to the group. Permissions are required for some activities in the DCD.  |
-| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access rights.  | Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract.     | 
-| The contract can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.        | The administrator can grant users, in their contract, administrator rights by activating the respective checkboxes in the **User Manager**.                                      |
+| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access privileges.  | Administrators can assign administrator privileges to other users.                  |  A user assigned to a group, at a minimum, has read access to the resources allocated to the group. Permissions are required for some activities in the DCD.  |
+| Only contract owners have access to the **User Manager**. They can view the resource and cost overview and change the payment method of the contract. They can add or remove users from your contract, create groups, and grant permissions and access privileges.  | Administrators do not need to be managed in groups, as they automatically have access to all resources associated with the contract.     | 
+| The contract can grant users, in their contract, administrator privileges by activating the respective checkboxes in the **User Manager**.        | The administrator can grant users, in their contract, administrator privileges by activating the respective checkboxes in the **User Manager**.                                      |
 
 ### How are user groups divided?
 
