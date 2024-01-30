@@ -1,6 +1,6 @@
 # IONOS Cloud FAQs
 
-Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. You can sign up to get started with your trial account. 
+You can sign up to get started with your trial account. Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. 
 
 ![](/images//uncompromise_cloud.png)
 
@@ -21,7 +21,7 @@ Select [<mark style="color:blue;">**Get started now**</mark>](https://cloud.iono
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [<mark style="color:blue;">From where can I download my invoices?</mark>](general-information/frequently-asked-questions/costs-and-billing.md#from-where-can-i-download-my-invoices)          | [<mark style="color:blue;">How do I connect to a server via DCD?</mark>](general-information/frequently-asked-questions/data-center-designer.md#how-do-i-connect-to-a-server-using-the-dcd)                 |
 | [<mark style="color:blue;">Can I limit my costs?](general-information/frequently-asked-questions/costs-and-billing.md#can-i-limit-my-costs)                                  | [<mark style="color:blue;">How do I manage user permissions?</mark>](general-information/frequently-asked-questions/data-center-designer.md#how-do-i-manage-user-permissions) |
-| [<mark style="color:blue;">Can I calculate my costs in advance?</mark>](general-information/frequently-asked-questions/costs-and-billing.md#can-i-calculate-my-expenses-in-advance) | [<mark style="color:blue;">How are user roles assigned?</mark>](general-information/frequently-asked-questions/data-center-designer.md#how-are-user-privileges-assigned)           |
+| [<mark style="color:blue;">Can I calculate my costs in advance?</mark>](general-information/frequently-asked-questions/costs-and-billing.md#can-i-calculate-my-expenses-in-advance) | [<mark style="color:blue;">How are user privileges assigned?</mark>](general-information/frequently-asked-questions/data-center-designer.md#how-are-user-privileges-assigned)           |
 | [<mark style="color:blue;">How is the traffic measured and billed?](general-information/frequently-asked-questions/costs-and-billing.md#how-is-the-traffic-measured-and-billed)      | [<mark style="color:blue;">How is provisioning conducted?</mark>](general-information/frequently-asked-questions/data-center-designer.md#how-is-provisioning-conducted)  |
 | [<mark style="color:blue;">Do you offer discounts on contracts?](general-information/frequently-asked-questions/costs-and-billing.md#do-you-offer-discounts-on-contracts)    | [<mark style="color:blue;">What happens when the trial period ends?</mark>](general-information/frequently-asked-questions/trial-conditions.md#what-happens-when-the-trial-period-ends)       |
 
