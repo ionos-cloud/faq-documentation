@@ -12,7 +12,7 @@ If you require direct assistance, contact [<mark style="color:blue;">IONOS Cloud
 
 ### If I need a certain feature but cannot find it on the website, how do I know if IONOS Cloud offers it?
 
-If you already have an account with us, contact your account manager. If you do not have an account with us, contact us using [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help).
+If you already have an account with IONOS, contact your account manager. If not, you can contact the [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help).
 
 ### Do you guarantee that my data will only remain in Germany?
 
