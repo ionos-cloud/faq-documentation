@@ -2,7 +2,7 @@
 
 ### How can I recover my password?
 
-To recover your password, use the [<mark style="color:blue;">Password Recovery</mark>](https://dcd.ionos.com/password-recovery/) tool. You can also use **forgot password?** option on the [<mark style="color:blue;">DCD login</mark>](https://dcd.ionos.com/latest/). 
+You can use the [<mark style="color:blue;">Password Recovery</mark>](https://dcd.ionos.com/password-recovery/) option to recover your password. Alternatively, you can also select the **forgot password?** option on the [<mark style="color:blue;">DCD Log in</mark>](https://dcd.ionos.com/latest/) web page. 
 
 ### How can I update my email address?
 
