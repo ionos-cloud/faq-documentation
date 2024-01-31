@@ -24,7 +24,7 @@ We have extensive [<mark style="color:blue;">IONOS Cloud Documentation</mark>](h
 
 ### Does IONOS Cloud offer specific certifications?
 
-You can find IONOS [<mark style="color:blue;">Certificates and attestations</mark>](https://cloud.ionos.de/zertifikate). If you need additional certificates, contact us using [<mark style="color:blue">IONOS customer service</mark>](https://contact.ionos.de/) or contact your account manager.
+Yes, IONOS offers specific certifications. For more information, see [<mark style="color:blue;">Certificates and attestations</mark>](https://cloud.ionos.de/zertifikate). If you need additional certificates, you can either contact [<mark style="color:blue">IONOS customer service</mark>](https://contact.ionos.de/) or contact your account manager.
 
 ### Who should I contact if I want to transfer my account to another company?
 
