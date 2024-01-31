@@ -14,4 +14,4 @@ You can change your payment details in your DCD account at any time. In the **DC
 
 ### Is it possible to pay by invoice or in advance?
 
-To learn about payment possibilities, get in touch with your dedicated account manager. 
+To learn about payment possibilities, contact your dedicated account manager. 

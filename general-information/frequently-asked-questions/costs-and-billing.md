@@ -14,7 +14,7 @@ Your account manager can provide you with specific pricing information. You can 
 
 ### How is the traffic measured and billed?
 
-You pay only for the **outbound traffic**, which passes through the IONOS physical gateways. External inbound and internal traffic are free of charge. We meter on **Layer-2 (Ethernet)** frames as they traverse the physical gateways of IONOS data centers. Usage-based charges are rounded to the nearest whole cent by IONOS metering and billing system. For more information, see the [<mark style="color:blue;">IONOS website</mark>](https://cloud.ionos.de/preise).
+You pay only for the **outbound traffic**, which passes through the IONOS physical gateways. External inbound and internal traffic are free of charge. We meter on **Layer-2 (Ethernet)** frames as they traverse the physical gateways of IONOS data centers. Usage-based charges are rounded to the nearest whole cent by IONOS metering and billing system. For more information, see [<mark style="color:blue;">IONOS website</mark>](https://cloud.ionos.de/preise).
 
 ### What are the charges for traffic over public IPs?
 
@@ -30,7 +30,7 @@ Data transfers between data centers in the same geographical regions are free. T
 
 ### Do you offer discounts on contracts?
 
-Your account manager can provide you with information on contracts.
+Contact your account manager to get information about contract discounts.
 
 ### Does IONOS Cloud have special offers for students, freelancers, or startups?
 
