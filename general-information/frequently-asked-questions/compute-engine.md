@@ -3,7 +3,7 @@
 ### What are cloud servers?
 
 The cloud server is suitable for anyone who wants a robust IT infrastructure at a reasonable price. It is the perfect foundation for various web projects, whether it is a private homepage or company website, a robust framework for web developers, or a high-performance gaming server. With cloud servers, you can flexibly balance the necessary resources and pay only for what is actually used. 
-If you are working on larger projects, you can use servers for various purposes. For example, you have a front-end server paired with a load balancer, along with database servers managed through third-party software using an API. In such cases, cloud server solutions offer a seamless match to address these diverse scenarios.
+If you are working on larger projects, you can use servers for various purposes. For example, consider you have a front-end server paired with a load balancer, along with database servers managed through third-party software using an API. In such cases, cloud server solutions offer a seamless match to address these diverse scenarios.
 
 ### Are cloud servers suitable for enterprise hosting?
 
