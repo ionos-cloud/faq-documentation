@@ -2,7 +2,7 @@
 
 ### How can I ensure my data center is properly set up?
 
-Customers should have a basic understanding of cloud hosting platforms before using IONOS's Cloud products and services. The best way to get started is by using IONOS graphic user interface tutorials. These instruction sets will teach you how to launch a fundamental data center and set up initial user access and permissions.
+Customers should have a basic understanding of cloud hosting platforms before using IONOS's Cloud products and services. The best way to get started is by using IONOS graphic user interface tutorials. These instruction sets will help you launch a fundamental data center and set up initial user access and permissions.
 
 If you require direct assistance, contact [<mark style="color:blue;">IONOS Cloud help</mark>](https://cloud.ionos.com/help). They will check your infrastructure to ensure that everything is correctly set up. This service is completely free of charge. IONOS support service is available 24/7.
 
