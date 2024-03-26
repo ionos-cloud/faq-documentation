@@ -1,6 +1,6 @@
 ---
 description: >-
-    To get answers to the most commonly encountered questions check out our FAQs.
+    Explore our guides and reference documents to integrate IONOS Cloud products and services.
 layout:
   title:
     visible: false
