@@ -3,9 +3,9 @@ description: >-
     Get answers to the most commonly encountered questions.
 layout:
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -17,6 +17,8 @@ layout:
 # IONOS Cloud FAQs
 
 <figure><img src="/images/faq-banner.svg" alt=""><figcaption></figcaption></figure>
+
+Get answers to the most commonly encountered questions.
 
 You can sign up to get started with your trial account. Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. 
 
