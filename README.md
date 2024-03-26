@@ -1,5 +1,3 @@
-# IONOS Cloud FAQs
-
 ---
 description: >-
     To get answers to the most commonly encountered questions check out our FAQs.
@@ -16,7 +14,7 @@ layout:
     visible: false
 ---
 
-# IONOS Cloud Documentation
+# IONOS Cloud FAQs
 
 <figure><img src="/images/faq-banner.svg" alt=""><figcaption></figcaption></figure>
 
