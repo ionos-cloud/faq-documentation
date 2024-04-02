@@ -1,8 +1,26 @@
+---
+description: >-
+    Get answers to the most commonly encountered questions.
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # IONOS Cloud FAQs
 
-You can sign up to get started with your trial account. Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. 
+<figure><img src="/images/faq-banner.svg" alt=""><figcaption></figcaption></figure>
 
-![](/images//uncompromise_cloud.png)
+Get answers to the most commonly encountered questions.
+
+You can sign up to get started with your trial account. Select [<mark style="color:blue;">**Try now**</mark>](https://cloud.ionos.com/compute/signup) to start using the IONOS Cloud setup. 
 
 ## Questions                                                               
 
