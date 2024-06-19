@@ -30,7 +30,7 @@ You can [<mark style="color:blue;">sign up</mark>](https://cloud.ionos.com/compu
 | [<mark style="color:blue;">Do I need a verification code to log in to IONOS Cloud account?</mark>](general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account) | [<mark style="color:blue;">How can I find the location of my data center?</mark>](general-information/frequently-asked-questions/compute-engine.md#how-can-i-find-the-location-of-my-data-center)                    |
 | [<mark style="color:blue;">How do I delete my account?</mark>](general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account)                                                                         | [<mark style="color:blue;">Why I cannot access my VM via Remote Console?</mark>](general-information/frequently-asked-questions/compute-engine.md#why-can-i-not-access-my-virtual-machine-vm-via-the-remote-console) |
 
-[<mark style="color:blue;">**Get started now**</mark>](https://cloud.ionos.de/startup-programm#contact) to learn more about the IONOS Cloud Startup Initiative.
+[<mark style="color:blue;">Get started now</mark>](https://cloud.ionos.de/startup-programm#contact) to learn more about the IONOS Cloud Startup Initiative.
 
 ![](images/ionos\_cloud\_startup.png)
 
