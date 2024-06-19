@@ -19,7 +19,7 @@ layout:
 
 Get answers to the most commonly encountered questions.
 
-You can [sign up](https://cloud.ionos.com/compute/signup) to get started with your trial account.
+You can [<mark style="color:blue;">sign up</mark>](https://cloud.ionos.com/compute/signup) to get started with your trial account.
 
 ## Questions
 
