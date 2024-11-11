@@ -2,7 +2,7 @@
 
 ### From where can I download my invoices?
 
-You will receive monthly invoices by email to the specified invoice recipient. If you have any questions about your accounts, contact via email at [<mark style="color:blue;">account@cloud.ionos.com</mark>](mailto:account@cloud.ionos.com) or your IONOS Cloud account manager.
+You will receive monthly invoices by email to the specified invoice recipient. If you have any questions about your accounts, contact via email at [<mark style="color:blue;">accounting@billing.ionos.com</mark>](mailto:accounting@billing.ionos.com) or your IONOS Cloud account manager.
 
 ### Can I limit my costs?
 
