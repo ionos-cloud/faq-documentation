@@ -36,22 +36,22 @@ You can [<mark style="color:blue;">sign up</mark>](https://cloud.ionos.com/compu
   <tbody>
     <tr>
       <td><mark style="color:blue;"><strong>How can I recover my password?</strong></mark></td>
-      <td></td>
+      <td>Learn how to reset your password if you've forgotten it.</td>
       <td><a href="general-information/frequently-asked-questions/account-settings.md#how-can-i-recover-my-password">how-can-i-recover-my-password</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>How can I update my email address?</strong></mark></td>
-      <td></td>
+      <td>Steps to update the email address associated with your account.</td>
       <td><a href="general-information/frequently-asked-questions/account-settings.md#how-can-i-update-my-email-address">how-can-i-update-my-email-address</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>Do I need a verification code to log in to IONOS Cloud account?</strong></mark></td>
-      <td></td>
+      <td>Understand when and why a verification code is required for login.</td>
       <td><a href="general-information/frequently-asked-questions/account-settings.md#do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account">do-i-need-a-verification-code-to-log-in-to-ionos-cloud-account</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>How do I delete my account?</strong></mark></td>
-      <td></td>
+      <td>Find out the process for permanently deleting your account.</td>
       <td><a href="general-information/frequently-asked-questions/account-settings.md#how-do-i-delete-my-account">how-do-i-delete-my-account</a></td>
     </tr>
   </tbody>
@@ -70,22 +70,22 @@ You can [<mark style="color:blue;">sign up</mark>](https://cloud.ionos.com/compu
   <tbody>
     <tr>
       <td><mark style="color:blue;"><strong>What are Cloud Servers?</strong></mark></td>
-      <td></td>
+      <td>Discover the features and benefits of IONOS Cloud Servers.</td>
       <td><a href="general-information/frequently-asked-questions/compute-engine.md#what-are-cloud-servers">what-are-cloud-servers</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>How can I change the data center location?</strong></mark></td>
-      <td></td>
+      <td>Instructions on how to modify the location of your data center.</td>
       <td><a href="general-information/frequently-asked-questions/compute-engine.md#how-can-i-change-the-data-center-location">how-can-i-change-the-data-center-location</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>How can I find the location of my data center?</strong></mark></td>
-      <td></td>
+      <td>Learn how to identify the physical location of your data center.</td>
       <td><a href="general-information/frequently-asked-questions/compute-engine.md#how-can-i-find-the-location-of-my-data-center">how-can-i-find-the-location-of-my-data-center</a></td>
     </tr>
     <tr>
       <td><mark style="color:blue;"><strong>Why I cannot access my VM via Remote Console?</strong></mark></td>
-      <td></td>
+      <td>Troubleshooting tips for accessing your virtual machine remotely.</td>
       <td><a href="general-information/frequently-asked-questions/compute-engine.md#why-can-i-not-access-my-virtual-machine-vm-via-the-remote-console">why-can-i-not-access-my-vm-via-remote-console</a></td>
     </tr>
   </tbody>
