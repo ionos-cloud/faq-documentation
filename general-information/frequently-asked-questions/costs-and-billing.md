@@ -12,13 +12,6 @@ Your account manager can provide you with information on cost limits.
 
 Your account manager can provide you with specific pricing information. You can also contact us at +49 30 57700 840 or by email at [<mark style="color:blue;">beratung@cloud.ionos.de</mark>](mailto:beratung@cloud.ionos.de).
 
-### How does IONOS handle storage and traffic calculations?
-
-We use the binary system (base-2) for measuring storage and data transfer usage in our billing system. Here’s how the calculations break down:
-
-1 GB = 1,073,741,824 bytes (calculated as 1024 bytes * 1024 * 1024)  
-1 TB = 1,024 GB = 1,099,511,627,776 bytes
-
 ### How is the traffic measured and billed?
 
 You pay only for the **outbound traffic**, which passes through the IONOS physical gateways. External inbound and internal traffic are free of charge. We meter on **Layer-2 (Ethernet)** frames as they traverse the physical gateways of IONOS data centers. Usage-based charges are rounded to the nearest whole cent by IONOS metering and billing system. For more information, see [<mark style="color:blue;">IONOS website</mark>](https://cloud.ionos.de/preise).
