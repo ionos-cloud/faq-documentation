@@ -1,0 +1,16 @@
+# The Cloud Documentation Panel reviews and accepts changes to the twt-products-documentation repository.  
+# The Panel will be requested for a review when someone opens a pull request.
+
+# /twt-products-documentation/twt-team and product management
+ * @ionos-cloud/twt-team
+ * @ionos-cloud/ic-prod-mgr
+#  @ionos-cloud/cloud-documentation-panel (based on GitHub documentation) 
+# @cloud-documentation-panel 
+# /twt-products-documentation/ @ogunreku @DiPoojary @sadhanasuresh 
+# @ogunreku @DiPoojary
+
+
+# go to _twt-products-documentation_ > Settings > Branches > Select Branch Protection Rules # > Select master and then select the following checkboxes in the page that pops-up:
+# - Protect this branch
+# - Require pull request reviews before merging
+# - Require review from Code Owners
