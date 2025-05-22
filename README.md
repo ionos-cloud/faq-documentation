@@ -32,7 +32,7 @@ You can [<mark style="color:blue;">sign up</mark>](https://cloud.ionos.com/compu
 
 [<mark style="color:blue;">Get started now</mark>](https://cloud.ionos.de/startup-programm#contact) to learn more about the IONOS Cloud Startup Initiative.
 
-![](images\ionos\_cloud\_startup.png)
+![](images/ionos\_cloud\_startup.png)
 
 | Costs & Billing                                                                                                                                                                        | Data Center Designer                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
