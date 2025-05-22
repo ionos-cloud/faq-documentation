@@ -1,6 +1,6 @@
 # Table of contents
 
-* [IONOS Cloud FAQs](README.md)
+* [Overview](README.md)
 
 ## Categories
 
